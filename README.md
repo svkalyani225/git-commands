@@ -1,6 +1,6 @@
 # git-commands
 - git init
--git clone "repolink"
+- git clone "repolink"
 - git status
 - git add filename
 - git add *
